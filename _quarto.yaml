@@ -1,12 +1,12 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "Ecosystem and Socioeconomic Profiles"
   logo: images/esp-logo.png
   logo-href: index.qmd
-  
+
   navbar:
     background: "#003366" # NOAA Blue
     foreground: white
@@ -25,7 +25,7 @@ website:
 
   page-footer:
     left: "An official website of the United States government"
-    right: 
+    right:
       - text: "NOAA Fisheries"
         href: https://www.fisheries.noaa.gov/
 
