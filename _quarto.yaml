@@ -4,12 +4,10 @@ project:
 
 website:
   title: "Ecosystem and Socioeconomic Profiles"
-  logo: images/esp-logo.png
-  logo-href: index.qmd
-
+  # logo: "images/esp-logo.png"
+  # logo-href: "index.qmd"
   navbar:
-    background: "#003366" # NOAA Blue
-    foreground: white
+    background: "#003366"
     search: true
     left:
       - text: "Overview"
