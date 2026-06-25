@@ -4,8 +4,6 @@ project:
 
 website:
   title: "Ecosystem and Socioeconomic Profiles"
-  # logo: "images/esp-logo.png"
-  # logo-href: "index.qmd"
   navbar:
     background: "#003366"
     search: true
@@ -21,15 +19,8 @@ website:
       - text: "FAQs"
         href: content/faqs.qmd
 
-  page-footer:
-    left: "An official website of the United States government"
-    right:
-      - text: "NOAA Fisheries"
-        href: https://www.fisheries.noaa.gov/
-
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-    toc-depth: 3
