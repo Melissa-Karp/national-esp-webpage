@@ -1,0 +1,19 @@
+/* Custom NOAA Branding Adjustments */
+.navbar {
+  background-color: #003366 !important; /* NOAA Deep Blue */
+}
+
+.navbar-title, .nav-link {
+  color: #ffffff !important;
+}
+
+.callout {
+  border-left-color: #005599 !important;
+  background-color: #f4f8fb;
+}
+
+h2 {
+  color: #003366;
+  border-bottom: 2px solid #e5e5e5;
+  padding-bottom: 4px;
+}

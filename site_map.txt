@@ -1,0 +1,21 @@
+national-esp-site/
+│
+├── .github/
+│   └── workflows/
+│       └── publish.yml          # Automated GitHub Pages compiler
+│
+├── content/
+│   ├── steps.qmd                # The 4 Steps of an ESP
+│   ├── action.qmd               # ESPs in Action (Explore by Region)
+│   ├── coordination.qmd         # National Coordination Team info
+│   └── faqs.qmd                 # Frequently Asked Questions
+│
+├── images/
+│   ├── esp-logo.png             # Place your hexagonal ESP logo here
+│   ├── step-diagram.png         # Figure: The 4-step process infographic
+│   └── management-system.png    # Figure: Fisheries Science & Management System
+│
+├── _quarto.yml                  # Main configuration & site navigation layout
+├── index.qmd                    # Homepage (Overview)
+├── styles.css                   # Custom styling to match NOAA branding
+└── README.md                    # Project README documentation

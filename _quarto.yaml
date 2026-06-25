@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Ecosystem and Socioeconomic Profiles"
+  logo: images/esp-logo.png
+  logo-href: index.qmd
+  
+  navbar:
+    background: "#003366" # NOAA Blue
+    foreground: white
+    search: true
+    left:
+      - text: "Overview"
+        href: index.qmd
+      - text: "The 4 Steps"
+        href: content/steps.qmd
+      - text: "ESPs in Action"
+        href: content/action.qmd
+      - text: "National Coordination"
+        href: content/coordination.qmd
+      - text: "FAQs"
+        href: content/faqs.qmd
+
+  page-footer:
+    left: "An official website of the United States government"
+    right: 
+      - text: "NOAA Fisheries"
+        href: https://www.fisheries.noaa.gov/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
