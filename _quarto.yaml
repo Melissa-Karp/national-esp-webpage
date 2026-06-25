@@ -9,15 +9,15 @@ website:
     search: true
     left:
       - text: "Overview"
-        href: index.qmd
+        href: index.md
       - text: "The 4 Steps"
-        href: content/steps.qmd
+        href: content/steps.md
       - text: "ESPs in Action"
-        href: content/action.qmd
+        href: content/action.md
       - text: "National Coordination"
-        href: content/coordination.qmd
+        href: content/coordination.md
       - text: "FAQs"
-        href: content/faqs.qmd
+        href: content/faqs.md
 
 format:
   html:
