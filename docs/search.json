@@ -1,52 +1,59 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nEcosystem and Socioeconomic Profiles\n",
+    "section": "",
+    "text": "Bridging the gap between socio-ecological science and fisheries management decision-making."
+  },
+  {
+    "objectID": "index.html#what-is-an-ecosystem-and-socioeconomic-profile",
+    "href": "index.html#what-is-an-ecosystem-and-socioeconomic-profile",
+    "title": "\nEcosystem and Socioeconomic Profiles\n",
+    "section": "What is an Ecosystem and Socioeconomic profile?",
+    "text": "What is an Ecosystem and Socioeconomic profile?\nEcosystem and Socioeconomic Profiles (ESP) aim to address the critical need for more pathways to bring essential socio-ecological information into fisheries science and management.\nESPs are both a process and a product. The ESP process creates a traceable pathway for identifying and integrating key socio-ecological indicators into species-specific assessment and/or management decision making. The end result of the process is a succinct, focused report that distills information from a variety of sources and makes it more accessible, interpretable, and actionable for scientists and decision makers."
+  },
+  {
     "objectID": "index.html#background-on-the-issue",
     "href": "index.html#background-on-the-issue",
-    "title": "Ecosystem and Socioeconomic Profiles",
+    "title": "\nEcosystem and Socioeconomic Profiles\n",
     "section": "Background on the Issue",
     "text": "Background on the Issue\nEcosystem-based science is a primary component of effective marine conservation and resource management, and NOAA Fisheries is committed to ecosystem-based management as our most powerful tool to maintain productive and resilient fisheries. This approach considers the entire ecosystem, including humans, to balance tradeoffs between ecological, social, and economic needs.\nOur national standard guidelines require the consideration of ecosystem and socioeconomic processes with regard to specifying optimum yield. While progress has been made via comprehensive ecosystem status reports, a gap remains between conducting ecosystem research and integrating it within the fishery management process. Primary obstacles include a lack of a consistent approach to deciding when and how to test and incorporate this information."
   },
   {
     "objectID": "index.html#history-of-esps",
     "href": "index.html#history-of-esps",
-    "title": "Ecosystem and Socioeconomic Profiles",
+    "title": "\nEcosystem and Socioeconomic Profiles\n",
     "section": "History of ESPs",
     "text": "History of ESPs\nThe ESP was first conceived in 2014, building on NOAA Fisheries’ rich history of identifying ecosystem and socioeconomic pressures since the 1990s.\n\n2017: The first ESP case study using Alaska sablefish was completed.\n2018–Present: Developed and refined through the North Pacific Fisheries Management Council review process and recommendations from the Next Generation Stock Assessment Improvement Plan.\nCurrent: ESPs are now being adapted and adopted across the nation with the help of a National ESP Coordination Team."
-  },
-  {
-    "objectID": "index.html#more-information",
-    "href": "index.html#more-information",
-    "title": "Ecosystem and Socioeconomic Profiles",
-    "section": "More Information",
-    "text": "More Information\n\nEcosystem-Based Fisheries Management Policy and Roadmap\nStock Assessment Improvement Plan\nIntegrated Ecosystem Assessment Program"
   },
   {
     "objectID": "content/faqs.html",
     "href": "content/faqs.html",
     "title": "Frequently Asked Questions",
     "section": "",
-    "text": "How do ESPs relate to the Integrated Ecosystem Assessment (IEA) program?\n[cite_start]ESPs are part of the larger, iterative IEA approach[cite: 113]. [cite_start]They function as a tool to implement the IEA loop by translating large-scale indicators down to stock-specific applications[cite: 113, 114].\n\n\nHow do ESPs support the stock assessment program?\n[cite_start]ESPs are directly responsive to the proposed 3-step process outlined in the Implementing a Next Generation Stock Assessment Enterprise framework (NG-SAIP; Lynch 2018)[cite: 116]. [cite_start]They facilitate more robust, accurate, and ecosystem-linked stock assessments[cite: 117].\n\n\nHow do ESPs support EBFM?\n[cite_start]They directly accelerate the adoption of Ecosystem-Based Fisheries Management by cleanly intersecting social science, ecological indicators, and actual management policy advice[cite: 119].\n\n\nHow can ESPs support CEFI?\n[cite_start]ESPs aid the operational production of climate-informed advice[cite: 121]. [cite_start]They serve as clear delivery pipelines bringing ocean and climate predictive outputs developed in CEFI directly into evaluation rooms[cite: 122]."
+    "text": "How do ESPs relate to the Integrated Ecosystem Assessment (IEA) program?\nESPs are part of the larger, iterative IEA approach. They function as a tool to implement the IEA loop by translating large-scale indicators down to stock-specific applications.\n\n\nHow do ESPs support the stock assessment program?\nESPs are directly responsive to the proposed 3-step process outlined in the Implementing a Next Generation Stock Assessment Enterprise framework (NG-SAIP; Lynch 2018). They facilitate more robust, accurate, and ecosystem-linked stock assessments.\n\n\nHow do ESPs support EBFM?\nThey directly accelerate the adoption of Ecosystem-Based Fisheries Management by cleanly intersecting social science, ecological indicators, and actual management policy advice.\n\n\nHow can ESPs support CEFI?\nESPs aid the operational production of climate-informed advice[cite: 121]. They serve as clear delivery pipelines bringing ocean and climate predictive outputs developed in CEFI directly into evaluation rooms."
   },
   {
     "objectID": "content/action.html",
     "href": "content/action.html",
     "title": "ESPs in Action",
     "section": "",
-    "text": "[cite_start]ESPs feed into the science and management process both qualitatively and quantitatively[cite: 66].\n[cite_start][cite: 72]"
+    "text": "ESPs feed into the science and management process both qualitatively and quantitatively.\n\n\n\nFisheries Science and Management System Diagram"
   },
   {
     "objectID": "content/action.html#science-and-management-applications",
     "href": "content/action.html#science-and-management-applications",
     "title": "ESPs in Action",
     "section": "",
-    "text": "[cite_start]ESPs feed into the science and management process both qualitatively and quantitatively[cite: 66].\n[cite_start][cite: 72]"
+    "text": "ESPs feed into the science and management process both qualitatively and quantitatively.\n\n\n\nFisheries Science and Management System Diagram"
   },
   {
     "objectID": "content/action.html#explore-by-region",
     "href": "content/action.html#explore-by-region",
     "title": "ESPs in Action",
     "section": "Explore by Region",
-    "text": "Explore by Region\n[cite_start]ESPs have been implemented in 3 regions thus far[cite: 74]. Use the links below to explore region-specific ESP efforts:\n\n🐟 Alaska\n\n[cite_start][Feature Story](https://www.fisheries.noaa.gov/) [cite: 76]\n[cite_start][AK ESP Website](https://www.fisheries.noaa.gov/) [cite: 77]\n[cite_start][Explore By Species](https://www.fisheries.noaa.gov/) [cite: 78]\n\n\n\n🦀 New England / Mid-Atlantic\n\n[cite_start][ESPs Overview Website](https://www.fisheries.noaa.gov/) [cite: 80]\n[cite_start][Explore By Species](https://www.fisheries.noaa.gov/) [cite: 81]\n\n\n\n🐠 Pacific Islands\n\n[cite_start][Uku ESP Report](https://www.fisheries.noaa.gov/) [cite: 83]"
+    "text": "Explore by Region\nESPs have been implemented in 3 regions thus far. Use the links below to explore region-specific ESP efforts:\n\n🐟 Alaska\n\nFeature Story\nAK ESP Website\nExplore By Species\n\n\n\n🦀 New England / Mid-Atlantic\n\nESPs Overview Website\nExplore By Species\n\n\n\n🐠 Pacific Islands\n\n[cite_start][Uku ESP Report](https://www.fisheries.noaa.gov/) [cite: 83]"
   },
   {
     "objectID": "content/coordination.html",
@@ -67,13 +74,13 @@
     "href": "content/steps.html",
     "title": "The 4 Steps of an ESP",
     "section": "",
-    "text": "[cite_start]The ESP integrates ecosystem and socioeconomic factors into the stock assessment process through a four-step framework: Focus, Synthesis, Analyze, and Communicate[cite: 30]."
+    "text": "The ESP integrates ecosystem and socioeconomic factors into the stock assessment process through a four-step framework: Focus, Synthesis, Analyze, and Communicate."
   },
   {
     "objectID": "content/steps.html#more-reference-materials",
     "href": "content/steps.html#more-reference-materials",
     "title": "The 4 Steps of an ESP",
     "section": "More Reference Materials",
-    "text": "More Reference Materials\n\n[cite_start][ESP Practitioner’s Guide](https://www.fisheries.noaa.gov/) [cite: 32]\n[cite_start][Minimum Specification Template](https://www.fisheries.noaa.gov/) [cite: 33]"
+    "text": "More Reference Materials\n\nESP Practitioner’s Guide\nMinimum Specification Template"
   }
 ]

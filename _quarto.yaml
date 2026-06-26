@@ -9,18 +9,20 @@ website:
     search: true
     left:
       - text: "Overview"
-        href: index.md
+        href: index.qmd
       - text: "The 4 Steps"
-        href: content/steps.md
+        href: content/steps.qmd
       - text: "ESPs in Action"
-        href: content/action.md
+        href: content/action.qmd
       - text: "National Coordination"
-        href: content/coordination.md
+        href: content/coordination.qmd
       - text: "FAQs"
-        href: content/faqs.md
+        href: content/faqs.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-location: left
+    toc-expand: true
