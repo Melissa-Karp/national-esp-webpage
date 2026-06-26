@@ -25,4 +25,4 @@ ESPs have been implemented in 3 regions thus far. Use the links below to explore
 
 ### 🐠 Pacific Islands
 
--   \[cite_start\]\[Uku ESP Report\](https://www.fisheries.noaa.gov/) \[cite: 83\]
+-   [Uku ESP Report](https://www.fisheries.noaa.gov/)

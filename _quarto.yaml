@@ -6,10 +6,11 @@ website:
   title: "Ecosystem and Socioeconomic Profiles"
   navbar:
     background: "#003366"
+    logo: images/esp-logo.png
     search: true
-    left:
+    right:
       - text: "Overview"
-        href: index.qmd
+        href: content/overview.qmd
       - text: "The 4 Steps"
         href: content/steps.qmd
       - text: "ESPs in Action"

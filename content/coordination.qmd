@@ -1,0 +1,25 @@
+---
+title: "National Coordination"
+---
+
+## National ESP Coordination Team
+
+The increase in momentum across all six science centers to produce ESPs or ESP-like analysis inspired the creation of the National ESP initiative in 2022, followed by the formation of the National ESP Coordination Team in 2023.
+
+> "And now we are going national with dedicated workshops to share ESP development across the country... We’ve developed the foundation. It’s malleable. It can be adapted." — *Kalei Shotwell (Alaska Fisheries Science Center)*
+
+### Mission
+
+To help launch, streamline, and coordinate the ESP process at all six science centers. We enable a unified framework to integrate ecosystem and socioeconomic research within our stock assessment enterprise, providing an accounting mechanism to show progress toward ecosystem-based fisheries management (EBFM).
+
+### Scope of Activities & Deliverables
+
+-   **Web Maintenance:** Maintain this centralized space reviewing the ESP process and connecting reference data.
+
+-   **Step-by-Step Guides:** Develop and maintain a step-by-step guide for initiating and developing regional profiles.
+
+-   **National ESP Symposium:** Coordinate annual/biennial forums and workshops for cross-center sharing and innovation panels.
+
+-   **Training & Development:** Facilitate ongoing technical training ranging from brief seminars to multi-day co-creation hackathons.
+
+-   **Tracking Progress:** Track region status metrics, prioritized fish stocks, and real-world management use cases.

@@ -1,38 +1,45 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nEcosystem and Socioeconomic Profiles\n",
+    "objectID": "content/overview.html",
+    "href": "content/overview.html",
+    "title": "Ecosystem and Socioeconomic Profiles",
     "section": "",
-    "text": "Bridging the gap between socio-ecological science and fisheries management decision-making."
+    "text": "Ecosystem and Socioeconomic Profiles (ESP) aim to address the critical need for more pathways to bring essential socio-ecological information into fisheries science and management.\nESPs are both a process and a product. The ESP process creates a traceable pathway for identifying and integrating key socio-ecological indicators into species-specific assessment and/or management decision making. The end result of the process is a succinct, focused report that distills information from a variety of sources and makes it more accessible, interpretable, and actionable for scientists and decision makers.\n\n\n\nEcosystem-based science is a primary component of effective marine conservation and resource management, and NOAA Fisheries is committed to ecosystem-based management as our most powerful tool to maintain productive and resilient fisheries. This approach considers the entire ecosystem, including humans, to balance tradeoffs between ecological, social, and economic needs.\nOur national standard guidelines require the consideration of ecosystem and socioeconomic processes with regard to specifying optimum yield. While progress has been made via comprehensive ecosystem status reports, a gap remains between conducting ecosystem research and integrating it within the fishery management process. Primary obstacles include a lack of a consistent approach to deciding when and how to test and incorporate this information.\n\n\n\nThe ESP was first conceived in 2014, building on NOAA Fisheries’ rich history of identifying ecosystem and socioeconomic pressures since the 1990s.\n\n2017: The first ESP case study using Alaska sablefish was completed.\n2018–Present: Developed and refined through the North Pacific Fisheries Management Council review process and recommendations from the Next Generation Stock Assessment Improvement Plan.\nCurrent: ESPs are now being adapted and adopted across the nation with the help of a National ESP Coordination Team.\n\n\n\n\n\n\n\n\n\n\n\n\nEBFM Policy and Roadmap\nStock Assessment Plan\nIEA Program"
   },
   {
-    "objectID": "index.html#what-is-an-ecosystem-and-socioeconomic-profile",
-    "href": "index.html#what-is-an-ecosystem-and-socioeconomic-profile",
-    "title": "\nEcosystem and Socioeconomic Profiles\n",
-    "section": "What is an Ecosystem and Socioeconomic profile?",
-    "text": "What is an Ecosystem and Socioeconomic profile?\nEcosystem and Socioeconomic Profiles (ESP) aim to address the critical need for more pathways to bring essential socio-ecological information into fisheries science and management.\nESPs are both a process and a product. The ESP process creates a traceable pathway for identifying and integrating key socio-ecological indicators into species-specific assessment and/or management decision making. The end result of the process is a succinct, focused report that distills information from a variety of sources and makes it more accessible, interpretable, and actionable for scientists and decision makers."
-  },
-  {
-    "objectID": "index.html#background-on-the-issue",
-    "href": "index.html#background-on-the-issue",
-    "title": "\nEcosystem and Socioeconomic Profiles\n",
-    "section": "Background on the Issue",
-    "text": "Background on the Issue\nEcosystem-based science is a primary component of effective marine conservation and resource management, and NOAA Fisheries is committed to ecosystem-based management as our most powerful tool to maintain productive and resilient fisheries. This approach considers the entire ecosystem, including humans, to balance tradeoffs between ecological, social, and economic needs.\nOur national standard guidelines require the consideration of ecosystem and socioeconomic processes with regard to specifying optimum yield. While progress has been made via comprehensive ecosystem status reports, a gap remains between conducting ecosystem research and integrating it within the fishery management process. Primary obstacles include a lack of a consistent approach to deciding when and how to test and incorporate this information."
-  },
-  {
-    "objectID": "index.html#history-of-esps",
-    "href": "index.html#history-of-esps",
-    "title": "\nEcosystem and Socioeconomic Profiles\n",
-    "section": "History of ESPs",
-    "text": "History of ESPs\nThe ESP was first conceived in 2014, building on NOAA Fisheries’ rich history of identifying ecosystem and socioeconomic pressures since the 1990s.\n\n2017: The first ESP case study using Alaska sablefish was completed.\n2018–Present: Developed and refined through the North Pacific Fisheries Management Council review process and recommendations from the Next Generation Stock Assessment Improvement Plan.\nCurrent: ESPs are now being adapted and adopted across the nation with the help of a National ESP Coordination Team."
-  },
-  {
-    "objectID": "content/faqs.html",
-    "href": "content/faqs.html",
-    "title": "Frequently Asked Questions",
+    "objectID": "content/overview.html#what-is-an-ecosystem-and-socioeconomic-profile",
+    "href": "content/overview.html#what-is-an-ecosystem-and-socioeconomic-profile",
+    "title": "Ecosystem and Socioeconomic Profiles",
     "section": "",
-    "text": "How do ESPs relate to the Integrated Ecosystem Assessment (IEA) program?\nESPs are part of the larger, iterative IEA approach. They function as a tool to implement the IEA loop by translating large-scale indicators down to stock-specific applications.\n\n\nHow do ESPs support the stock assessment program?\nESPs are directly responsive to the proposed 3-step process outlined in the Implementing a Next Generation Stock Assessment Enterprise framework (NG-SAIP; Lynch 2018). They facilitate more robust, accurate, and ecosystem-linked stock assessments.\n\n\nHow do ESPs support EBFM?\nThey directly accelerate the adoption of Ecosystem-Based Fisheries Management by cleanly intersecting social science, ecological indicators, and actual management policy advice.\n\n\nHow can ESPs support CEFI?\nESPs aid the operational production of climate-informed advice[cite: 121]. They serve as clear delivery pipelines bringing ocean and climate predictive outputs developed in CEFI directly into evaluation rooms."
+    "text": "Ecosystem and Socioeconomic Profiles (ESP) aim to address the critical need for more pathways to bring essential socio-ecological information into fisheries science and management.\nESPs are both a process and a product. The ESP process creates a traceable pathway for identifying and integrating key socio-ecological indicators into species-specific assessment and/or management decision making. The end result of the process is a succinct, focused report that distills information from a variety of sources and makes it more accessible, interpretable, and actionable for scientists and decision makers."
+  },
+  {
+    "objectID": "content/overview.html#background-on-the-issue",
+    "href": "content/overview.html#background-on-the-issue",
+    "title": "Ecosystem and Socioeconomic Profiles",
+    "section": "",
+    "text": "Ecosystem-based science is a primary component of effective marine conservation and resource management, and NOAA Fisheries is committed to ecosystem-based management as our most powerful tool to maintain productive and resilient fisheries. This approach considers the entire ecosystem, including humans, to balance tradeoffs between ecological, social, and economic needs.\nOur national standard guidelines require the consideration of ecosystem and socioeconomic processes with regard to specifying optimum yield. While progress has been made via comprehensive ecosystem status reports, a gap remains between conducting ecosystem research and integrating it within the fishery management process. Primary obstacles include a lack of a consistent approach to deciding when and how to test and incorporate this information."
+  },
+  {
+    "objectID": "content/overview.html#history-of-esps",
+    "href": "content/overview.html#history-of-esps",
+    "title": "Ecosystem and Socioeconomic Profiles",
+    "section": "",
+    "text": "The ESP was first conceived in 2014, building on NOAA Fisheries’ rich history of identifying ecosystem and socioeconomic pressures since the 1990s.\n\n2017: The first ESP case study using Alaska sablefish was completed.\n2018–Present: Developed and refined through the North Pacific Fisheries Management Council review process and recommendations from the Next Generation Stock Assessment Improvement Plan.\nCurrent: ESPs are now being adapted and adopted across the nation with the help of a National ESP Coordination Team."
+  },
+  {
+    "objectID": "content/coordination.html",
+    "href": "content/coordination.html",
+    "title": "National Coordination",
+    "section": "",
+    "text": "The increase in momentum across all six science centers to produce ESPs or ESP-like analysis inspired the creation of the National ESP initiative in 2022, followed by the formation of the National ESP Coordination Team in 2023.\n\n“And now we are going national with dedicated workshops to share ESP development across the country… We’ve developed the foundation. It’s malleable. It can be adapted.” — Kalei Shotwell (Alaska Fisheries Science Center)\n\n\n\nTo help launch, streamline, and coordinate the ESP process at all six science centers. We enable a unified framework to integrate ecosystem and socioeconomic research within our stock assessment enterprise, providing an accounting mechanism to show progress toward ecosystem-based fisheries management (EBFM).\n\n\n\n\nWeb Maintenance: Maintain this centralized space reviewing the ESP process and connecting reference data.\nStep-by-Step Guides: Develop and maintain a step-by-step guide for initiating and developing regional profiles.\nNational ESP Symposium: Coordinate annual/biennial forums and workshops for cross-center sharing and innovation panels.\nTraining & Development: Facilitate ongoing technical training ranging from brief seminars to multi-day co-creation hackathons.\nTracking Progress: Track region status metrics, prioritized fish stocks, and real-world management use cases."
+  },
+  {
+    "objectID": "content/coordination.html#national-esp-coordination-team",
+    "href": "content/coordination.html#national-esp-coordination-team",
+    "title": "National Coordination",
+    "section": "",
+    "text": "The increase in momentum across all six science centers to produce ESPs or ESP-like analysis inspired the creation of the National ESP initiative in 2022, followed by the formation of the National ESP Coordination Team in 2023.\n\n“And now we are going national with dedicated workshops to share ESP development across the country… We’ve developed the foundation. It’s malleable. It can be adapted.” — Kalei Shotwell (Alaska Fisheries Science Center)\n\n\n\nTo help launch, streamline, and coordinate the ESP process at all six science centers. We enable a unified framework to integrate ecosystem and socioeconomic research within our stock assessment enterprise, providing an accounting mechanism to show progress toward ecosystem-based fisheries management (EBFM).\n\n\n\n\nWeb Maintenance: Maintain this centralized space reviewing the ESP process and connecting reference data.\nStep-by-Step Guides: Develop and maintain a step-by-step guide for initiating and developing regional profiles.\nNational ESP Symposium: Coordinate annual/biennial forums and workshops for cross-center sharing and innovation panels.\nTraining & Development: Facilitate ongoing technical training ranging from brief seminars to multi-day co-creation hackathons.\nTracking Progress: Track region status metrics, prioritized fish stocks, and real-world management use cases."
   },
   {
     "objectID": "content/action.html",
@@ -53,34 +60,20 @@
     "href": "content/action.html#explore-by-region",
     "title": "ESPs in Action",
     "section": "Explore by Region",
-    "text": "Explore by Region\nESPs have been implemented in 3 regions thus far. Use the links below to explore region-specific ESP efforts:\n\n🐟 Alaska\n\nFeature Story\nAK ESP Website\nExplore By Species\n\n\n\n🦀 New England / Mid-Atlantic\n\nESPs Overview Website\nExplore By Species\n\n\n\n🐠 Pacific Islands\n\n[cite_start][Uku ESP Report](https://www.fisheries.noaa.gov/) [cite: 83]"
+    "text": "Explore by Region\nESPs have been implemented in 3 regions thus far. Use the links below to explore region-specific ESP efforts:\n\n🐟 Alaska\n\nFeature Story\nAK ESP Website\nExplore By Species\n\n\n\n🦀 New England / Mid-Atlantic\n\nESPs Overview Website\nExplore By Species\n\n\n\n🐠 Pacific Islands\n\nUku ESP Report"
   },
   {
-    "objectID": "content/coordination.html",
-    "href": "content/coordination.html",
-    "title": "National Coordination",
+    "objectID": "content/faqs.html",
+    "href": "content/faqs.html",
+    "title": "Frequently Asked Questions",
     "section": "",
-    "text": "[cite_start]The increase in momentum across all six science centers to produce ESPs or ESP-like analysis inspired the creation of the National ESP initiative in 2022, followed by the formation of the National ESP Coordination Team in 2023[cite: 87].\n\n“And now we are going national with dedicated workshops to share ESP development across the country… We’ve developed the foundation. It’s malleable. It can be adapted.” [cite_start]— Kalei Shotwell (Alaska Fisheries Science Center) [cite: 107, 108]\n\n\n\n[cite_start]To help launch, streamline, and coordinate the ESP process at all six science centers[cite: 89]. [cite_start]We enable a unified framework to integrate ecosystem and socioeconomic research within our stock assessment enterprise, providing an accounting mechanism to show progress toward ecosystem-based fisheries management (EBFM)[cite: 89].\n\n\n\n\n[cite_start]Web Maintenance: Maintain this centralized space reviewing the ESP process and connecting reference data[cite: 93].\n[cite_start]Step-by-Step Guides: Develop and maintain a step-by-step guide for initiating and developing regional profiles[cite: 94].\n[cite_start]National ESP Symposium: Coordinate annual/biennial forums and workshops for cross-center sharing and innovation panels[cite: 96].\n[cite_start]Training & Development: Facilitate ongoing technical training ranging from brief seminars to multi-day co-creation hackathons[cite: 98].\n[cite_start]Tracking Progress: Track region status metrics, prioritized fish stocks, and real-world management use cases[cite: 100]."
-  },
-  {
-    "objectID": "content/coordination.html#national-esp-coordination-team",
-    "href": "content/coordination.html#national-esp-coordination-team",
-    "title": "National Coordination",
-    "section": "",
-    "text": "[cite_start]The increase in momentum across all six science centers to produce ESPs or ESP-like analysis inspired the creation of the National ESP initiative in 2022, followed by the formation of the National ESP Coordination Team in 2023[cite: 87].\n\n“And now we are going national with dedicated workshops to share ESP development across the country… We’ve developed the foundation. It’s malleable. It can be adapted.” [cite_start]— Kalei Shotwell (Alaska Fisheries Science Center) [cite: 107, 108]\n\n\n\n[cite_start]To help launch, streamline, and coordinate the ESP process at all six science centers[cite: 89]. [cite_start]We enable a unified framework to integrate ecosystem and socioeconomic research within our stock assessment enterprise, providing an accounting mechanism to show progress toward ecosystem-based fisheries management (EBFM)[cite: 89].\n\n\n\n\n[cite_start]Web Maintenance: Maintain this centralized space reviewing the ESP process and connecting reference data[cite: 93].\n[cite_start]Step-by-Step Guides: Develop and maintain a step-by-step guide for initiating and developing regional profiles[cite: 94].\n[cite_start]National ESP Symposium: Coordinate annual/biennial forums and workshops for cross-center sharing and innovation panels[cite: 96].\n[cite_start]Training & Development: Facilitate ongoing technical training ranging from brief seminars to multi-day co-creation hackathons[cite: 98].\n[cite_start]Tracking Progress: Track region status metrics, prioritized fish stocks, and real-world management use cases[cite: 100]."
+    "text": "How do ESPs relate to the Integrated Ecosystem Assessment (IEA) program?\nESPs are part of the larger, iterative IEA approach. They function as a tool to implement the IEA loop by translating large-scale indicators down to stock-specific applications.\n\n\nHow do ESPs support the stock assessment program?\nESPs are directly responsive to the proposed 3-step process outlined in the Implementing a Next Generation Stock Assessment Enterprise framework (NG-SAIP; Lynch 2018). They facilitate more robust, accurate, and ecosystem-linked stock assessments.\n\n\nHow do ESPs support EBFM?\nThey directly accelerate the adoption of Ecosystem-Based Fisheries Management by cleanly intersecting social science, ecological indicators, and actual management policy advice.\n\n\nHow can ESPs support CEFI?\nESPs aid the operational production of climate-informed advice. They serve as clear delivery pipelines bringing ocean and climate predictive outputs developed in CEFI directly into evaluation rooms."
   },
   {
     "objectID": "content/steps.html",
     "href": "content/steps.html",
     "title": "The 4 Steps of an ESP",
     "section": "",
-    "text": "The ESP integrates ecosystem and socioeconomic factors into the stock assessment process through a four-step framework: Focus, Synthesis, Analyze, and Communicate."
-  },
-  {
-    "objectID": "content/steps.html#more-reference-materials",
-    "href": "content/steps.html#more-reference-materials",
-    "title": "The 4 Steps of an ESP",
-    "section": "More Reference Materials",
-    "text": "More Reference Materials\n\nESP Practitioner’s Guide\nMinimum Specification Template"
+    "text": "The ESP integrates ecosystem and socioeconomic factors into the stock assessment process through a four-step framework: Focus, Synthesis, Analyze, and Communicate.\n\n\n\nThe Ecosystem and Socioeconomic Profile four-step process. Credit: NOAA Fisheries\n\n\n\nStep 1: Focus on Ecosystem and Socioeconomic Priorities\nThe first step is to review information from national initiatives and regional priorities to determine if a fish stock is a priority for producing an ESP. This is done by evaluating available data and vulnerable life history attributes with respect to other stocks in the area. Tools used include:\n\nClimate Vulnerability Assessments\nStock Assessment Classification and Prioritization\nProductivity-Susceptibility Assessments\n\n\n\nStep 2: Synthesize Ecosystem and Socioeconomic Vulnerabilities\nIdentify vulnerabilities to overfishing, ecological pressures, and climate change throughout the life stages of the stock; combine with ecosystem and socioeconomic processes driving stock dynamics. Conduct a literature review and develop models outlining major environmental and economic drivers of the stock’s distribution, life cycle, and fishery.\n\n\nStep 3: Analyze Ecosystem and Socioeconomic Indicators\nCreate, select, analyze and monitor a suite of indicators of the health of the stock and fishery. Conduct tests on trends between ecosystem and socioeconomic indicators and stock metrics\n\n\nStep 4: Communicate Ecosystem and Socioeconomic Considerations\nThe final step culminates in a stock-specific report and presentations that concisely convey the status of leading indicators to fisheries scientists and managers. Indicators can inform stock advice and management decisions through four pathways:\n\nProvide context\nSupporting model assumptions\nInforming model parameters\nProviding model covariates\n\n\n\n\n\n\n\n\n\nMore Resources\n\n\nESP Practitioner’s Guide\nMinimum Specification Template"
   }
 ]
